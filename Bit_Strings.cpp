@@ -1,3 +1,5 @@
+//WE CAN SOLVE THIS PROBLEM IN ONE LINE USING PYTHON
+//print(2**int(input())%int(1e9+7))
 #include <cstdio>
 const int max=1e9+7;
 long long c;
