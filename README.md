@@ -1,8 +1,4 @@
-# Solutions for CSES Problem Set
-
-There are solutions for the following [CSES Problem Set](https://cses.fi/problemset/list/) problems:
-
-### Introductory Problems
+# Introductory Problems
 
 1. [Weird_Algorithm](Weird_Algorithm.cpp)  ([problem site](https://cses.fi/problemset/task/1068))
 2. [Missing_Number](Missing_Number.cpp)  ([problem site](https://cses.fi/problemset/task/1083))
@@ -21,7 +17,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 15. [Chessboard_and_Queens](Chessboard_and_Queens.cpp)  ([problem site](https://cses.fi/problemset/task/1624))
 16. [Grid_Paths](Grid_Paths.cpp)  ([problem site](https://cses.fi/problemset/task/1625))
 
-### Sorting and Searching
+# Sorting and Searching
 
 17. [Distinct_Numbers](Distinct_Numbers.cpp)  ([problem site](https://cses.fi/problemset/task/1621))
 18. [Apartments](Apartments.cpp)  ([problem site](https://cses.fi/problemset/task/1084))
@@ -51,7 +47,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 42. [Movie_Festival_II](Movie_Festival_II.cpp)  ([problem site](https://cses.fi/problemset/task/1632))
 43. [Maximum_Subarray_Sum_II](Maximum_Subarray_Sum_II.cpp)  ([problem site](https://cses.fi/problemset/task/1644))
 
-### Dynamic Programming
+# Dynamic Programming
 
 
 44. [Dice_Combinations](Dice_Combinations.cpp)  ([problem site](https://cses.fi/problemset/task/1633))
@@ -70,7 +66,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 57. [Increasing_Subsequence](Increasing_Subsequence.cpp)  ([problem site](https://cses.fi/problemset/task/1145))
 58. [Projects](Projects.cpp)  ([problem site](https://cses.fi/problemset/task/1140))
 
-### Graph Algorithms
+# Graph Algorithms
 
 59. [Counting_Rooms](Counting_Rooms.cpp)  ([problem site](https://cses.fi/problemset/task/1192))
 60. [Labyrinth](Labyrinth.cpp)  ([problem site](https://cses.fi/problemset/task/1193))
@@ -109,7 +105,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 93. [School_Dance](School_Dance.cpp)  ([problem site](https://cses.fi/problemset/task/1696))
 94. [Distinct_Routes](Distinct_Routes.cpp)  ([problem site](https://cses.fi/problemset/task/1711))
 
-### Range Queries
+# Range Queries
 
 
 
@@ -130,7 +126,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 109. [Polynomial_Queries](Polynomial_Queries.cpp)  ([problem site](https://cses.fi/problemset/task/1736))
 110. [Range_Queries_and_Copies](Range_Queries_and_Copies.cpp)  ([problem site](https://cses.fi/problemset/task/1737))
 
-### Tree Algorithms
+# Tree Algorithms
 
 111. [Subordinates](Subordinates.cpp)  ([problem site](https://cses.fi/problemset/task/1674))
 112. [Tree_Matching](Tree_Matching.cpp)  ([problem site](https://cses.fi/problemset/task/1130))
@@ -145,7 +141,7 @@ There are solutions for the following [CSES Problem Set](https://cses.fi/problem
 121. [Path_Queries](Path_Queries.cpp)  ([problem site](https://cses.fi/problemset/task/1138))
 122. [Distinct_Colors](Distinct_Colors.cpp)  ([problem site](https://cses.fi/problemset/task/1139))
 
-### Mathematics
+# Mathematics
 
 123. [Exponentiation](Exponentiation.cpp)  ([problem site](https://cses.fi/problemset/task/1095))
 124. [Exponentiation_II](Exponentiation_II.cpp)  ([problem site](https://cses.fi/problemset/task/1712))
