@@ -1,21 +1,21 @@
-# Introductory Problems
+# Introductory%20Problems
 
-1. [Weird_Algorithm](Introductory Problems/Weird_Algorithm.cpp)  ([problem site]  (https://cses.fi/problemset/task/1068))
-2. [Missing_Number](Introductory Problems/Missing_Number.cpp)  ([problem site]  (https://cses.fi/problemset/task/1083))
-3. [Repetitions](Introductory Problems/Repetitions.cpp)  ([problem site]  (https://cses.fi/problemset/task/1069))
-4. [Increasing_Array](Introductory Problems/Increasing_Array.cpp)  ([problem site]  (https://cses.fi/problemset/task/1094))
-5. [Permutations](Introductory Problems/Permutations.cpp)  ([problem site]  (https://cses.fi/problemset/task/1070))
-6. [Number_Spiral](Introductory Problems/Number_Spiral.cpp)  ([problem site]  (https://cses.fi/problemset/task/1071))
-7. [Two_Knights](Introductory Problems/Two_Knights.cpp)  ([problem site]  (https://cses.fi/problemset/task/1072))
-8. [Two_Sets](Introductory Problems/Two_Sets.cpp)  ([problem site]  (https://cses.fi/problemset/task/1092))
-9. [Bit_Strings](Introductory Problems/Bit_Strings.cpp)  ([problem site]  (https://cses.fi/problemset/task/1617))
-10. [Trailing_Zeros](Introductory Problems/Trailing_Zeros.cpp)  ([problem site]  (https://cses.fi/problemset/task/1618))
-11. [Coin_Piles](Introductory Problems/Coin_Piles.cpp)  ([problem site]  (https://cses.fi/problemset/task/1754))
-12. [Palindrome_Reorder](Introductory Problems/Palindrome_Reorder.cpp)  ([problem site]  (https://cses.fi/problemset/task/1755))
-13. [Creating_Strings_I](Introductory Problems/Creating_Strings_I.cpp)  ([problem site]  (https://cses.fi/problemset/task/1622))
-14. [Apple_Division](Introductory Problems/Apple_Division.cpp)  ([problem site]  (https://cses.fi/problemset/task/1623))
-15. [Chessboard_and_Queens](Introductory Problems/Chessboard_and_Queens.cpp)  ([problem site]  (https://cses.fi/problemset/task/1624))
-16. [Grid_Paths](Introductory Problems/Grid_Paths.cpp)  ([problem site]  (https://cses.fi/problemset/task/1625))
+1. [Weird_Algorithm](Introductory%20Problems/Weird_Algorithm.cpp)  ([problem site]  (https://cses.fi/problemset/task/1068))
+2. [Missing_Number](Introductory%20Problems/Missing_Number.cpp)  ([problem site]  (https://cses.fi/problemset/task/1083))
+3. [Repetitions](Introductory%20Problems/Repetitions.cpp)  ([problem site]  (https://cses.fi/problemset/task/1069))
+4. [Increasing_Array](Introductory%20Problems/Increasing_Array.cpp)  ([problem site]  (https://cses.fi/problemset/task/1094))
+5. [Permutations](Introductory%20Problems/Permutations.cpp)  ([problem site]  (https://cses.fi/problemset/task/1070))
+6. [Number_Spiral](Introductory%20Problems/Number_Spiral.cpp)  ([problem site]  (https://cses.fi/problemset/task/1071))
+7. [Two_Knights](Introductory%20Problems/Two_Knights.cpp)  ([problem site]  (https://cses.fi/problemset/task/1072))
+8. [Two_Sets](Introductory%20Problems/Two_Sets.cpp)  ([problem site]  (https://cses.fi/problemset/task/1092))
+9. [Bit_Strings](Introductory%20Problems/Bit_Strings.cpp)  ([problem site]  (https://cses.fi/problemset/task/1617))
+10. [Trailing_Zeros](Introductory%20Problems/Trailing_Zeros.cpp)  ([problem site]  (https://cses.fi/problemset/task/1618))
+11. [Coin_Piles](Introductory%20Problems/Coin_Piles.cpp)  ([problem site]  (https://cses.fi/problemset/task/1754))
+12. [Palindrome_Reorder](Introductory%20Problems/Palindrome_Reorder.cpp)  ([problem site]  (https://cses.fi/problemset/task/1755))
+13. [Creating_Strings_I](Introductory%20Problems/Creating_Strings_I.cpp)  ([problem site]  (https://cses.fi/problemset/task/1622))
+14. [Apple_Division](Introductory%20Problems/Apple_Division.cpp)  ([problem site]  (https://cses.fi/problemset/task/1623))
+15. [Chessboard_and_Queens](Introductory%20Problems/Chessboard_and_Queens.cpp)  ([problem site]  (https://cses.fi/problemset/task/1624))
+16. [Grid_Paths](Introductory%20Problems/Grid_Paths.cpp)  ([problem site]  (https://cses.fi/problemset/task/1625))
 
 # Sorting and Searching
 
